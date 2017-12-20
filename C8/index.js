@@ -3,6 +3,7 @@ window.onload = function(){
 
 document.getElementById("googlelink").addEventListener("click", redirectToYahoo);
 document.getElementById("googlelink").addEventListener("auxclick", redirectToYahooNewTab);
+
 //document.getElementById("googlelink").addEventListener("contextmenu", rightClick);
 
 
